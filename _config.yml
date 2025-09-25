@@ -1,8 +1,10 @@
+title: null
 markdown: kramdown
 theme: minima
+
 minima:
-  social_links:
-      icon: github
-      url: "https://github.com/axreyes"
+  social links:
+    - { platform: github,   user_url: "https://github.com/axreyes" }
   hide_site_feed_link: true
-google_analytics: G-NNNNNNNNNN  // The former `UA-NNNNNNNN-N` format is no longer supported by Google
+
+google_analytics: G-NNNNNNNNNN
