@@ -2,9 +2,10 @@ title: null
 markdown: kramdown
 theme: minima
 
-minima:
-  social links:
-    - { platform: github,   user_url: "https://github.com/axreyes" }
-  hide_site_feed_link: true
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 
-google_analytics: G-NNNNNNNNNN
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/axreyes" }
