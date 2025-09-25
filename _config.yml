@@ -1,11 +1,5 @@
-title: null
+title: ""
 markdown: kramdown
 theme: minima
 
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/axreyes" }
+github_username: axreyes
